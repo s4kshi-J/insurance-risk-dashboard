@@ -18,7 +18,7 @@ Realistic insurance financial data modeled for line-wise solvency evaluation
 
 ## Preview
 
-![Dashboard Preview](Screenshots/dashboard-preview.png)
+![Dashboard Preview](Screenshots/page1_dashboard.png)
 
 ## Files
 - `InsuranceRisk.pbix` – Power BI file
