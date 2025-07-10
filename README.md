@@ -1,4 +1,4 @@
-# insurance-risk-dashboard
+
 # Insurance Risk Dashboard & Stress Simulator
 
 A dynamic Power BI dashboard that evaluates solvency, profitability, and capital adequacy across multiple lines of business in the insurance domain.
